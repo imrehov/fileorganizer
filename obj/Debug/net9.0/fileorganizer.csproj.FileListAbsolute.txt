@@ -1,0 +1,14 @@
+/home/azz/hszf/fileorganizer/bin/Debug/net9.0/fileorganizer
+/home/azz/hszf/fileorganizer/bin/Debug/net9.0/fileorganizer.deps.json
+/home/azz/hszf/fileorganizer/bin/Debug/net9.0/fileorganizer.runtimeconfig.json
+/home/azz/hszf/fileorganizer/bin/Debug/net9.0/fileorganizer.dll
+/home/azz/hszf/fileorganizer/bin/Debug/net9.0/fileorganizer.pdb
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.GeneratedMSBuildEditorConfig.editorconfig
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.AssemblyInfoInputs.cache
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.AssemblyInfo.cs
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.csproj.CoreCompileInputs.cache
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.dll
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/refint/fileorganizer.dll
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.pdb
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.genruntimeconfig.cache
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/ref/fileorganizer.dll
