@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fileorganizer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9dedf4c27a22709517fb3068bc8abb92f653bd5")]
 [assembly: System.Reflection.AssemblyProductAttribute("fileorganizer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fileorganizer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

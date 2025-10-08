@@ -12,3 +12,4 @@
 /home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.pdb
 /home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.genruntimeconfig.cache
 /home/azz/hszf/fileorganizer/obj/Debug/net9.0/ref/fileorganizer.dll
+/home/azz/hszf/fileorganizer/obj/Debug/net9.0/fileorganizer.sourcelink.json

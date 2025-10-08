@@ -87,6 +87,7 @@ class Program
 				string yoinkedAt = $"{f.CreationTime.Year.ToString()}-{f.CreationTime.Month.ToString()}-{f.CreationTime.Day.ToString()}";
 				if (!Directory.Exists(@$"/home/azz/Memes/{yoinkedAt}")) Directory.CreateDirectory(@$"/home/azz/Memes/{yoinkedAt}");
 				string fullpath = Path.Combine(@$"/home/azz/Memes/{yoinkedAt}", f.Name);
+				Console.WriteLine($"Moving {f.Name} to {fullpath}."); ;
 				f.MoveTo(fullpath);
 			}
 
